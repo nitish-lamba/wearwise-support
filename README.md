@@ -72,7 +72,7 @@ Welcome to WearWise support! We're here to help you make the most of your virtua
 - Try with a different portrait or clothing item
 
 ### Technical Requirements
-- **iOS Version:** 15.0 or later
+- **iOS Version:** 16.0 or later
 - **Internet:** Required for AI processing
 - **Storage:** 100MB+ free space recommended
 - **Camera/Photos:** Access required for uploading portraits
@@ -127,7 +127,7 @@ Welcome to WearWise support! We're here to help you make the most of your virtua
 
 We love hearing from our users! If you have suggestions for new features or improvements:
 
-- **Email us:** wearwise.support@gmail.com
+- **Email us:** nitish.wearwise@gmail.com
 - **Subject line:** "Feature Request: [Your idea]"
 - **Be specific:** The more details, the better we can help
 
