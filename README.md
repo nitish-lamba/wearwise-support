@@ -3,7 +3,7 @@
 Welcome to WearWise support! We're here to help you make the most of your virtual try-on experience.
 
 ## 📧 Contact Us
-- **Email:** wearwise.support@gmail.com
+- **Email:** nitish.wearwise@gmail.com
 - **Response Time:** 24-48 hours
 - **Languages:** English, Hindi
 
