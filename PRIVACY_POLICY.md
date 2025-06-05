@@ -39,38 +39,53 @@ WearWise ("we," "our," or "us") is committed to protecting your privacy. This Pr
 
 ## FACE DATA COLLECTION AND PROCESSING
 
-WearWise uses advanced AI technology that processes facial data from portrait photos to provide virtual try-on functionality.
+WearWise processes user-uploaded portrait photographs for virtual try-on functionality.
 
 What Face Data We Collect:
-• Facial landmarks and key points (eyes, nose, mouth, chin, cheek contours)
-• Facial geometry and three-dimensional measurements
-• Head pose and orientation data
-• Facial positioning information for clothing alignment
+• User-uploaded portrait photographs which may include facial features
+• Photos are used as a whole image canvas for virtual clothing overlay
+• We do NOT extract facial landmarks, biometric identifiers, or facial recognition profiles
+• We do NOT analyze or store specific facial geometry or measurements
 
-How We Use Face Data:
-• Exclusively for virtual try-on functionality to properly align clothing items
-• To create realistic virtual clothing placement on user photos
-• To ensure proper scale and positioning of garments
-• No facial recognition, identification, or biometric authentication purposes
+Precise Technical Processing:
+• Your portrait photo is sent as a complete image to our AI service for virtual try-on generation
+• The AI service overlays clothing items onto your photo using image processing techniques
+• No facial feature extraction, landmark detection, or biometric analysis occurs
+• The photo serves purely as a visual canvas for clothing placement
 
-Face Data Processing:
-• Processed locally on user's device and through secure fal.ai service
-• Temporarily processed during try-on sessions only
-• Immediately deleted after each try-on generation
-• Never stored permanently or used to train AI models
-• No sharing with third parties beyond our AI processing service
+Planned Uses of Face Data:
+• Exclusively to allow users to visualize clothing items overlaid on their uploaded photograph
+• To create realistic virtual try-on images by placing clothing onto the portrait
+• Your photo is processed as a whole image without facial feature analysis
+• Face data is NOT used for identification, advertising, user profiling, facial recognition, or any purpose outside of virtual clothing overlay
 
-Data Retention:
-• Face data: Processed temporarily and deleted immediately after use
-• Portrait photos: Stored until user deletes them or closes account
-• Generated images: Retained for user access until deletion
-• No long-term retention of facial biometric data
+Third-Party Processing (fal.ai):
+• Complete portrait photos (which may contain faces) are sent to fal.ai for AI-powered virtual try-on generation
+• fal.ai processes images ephemerally during try-on generation and does not retain them permanently
+• fal.ai acts as our service provider and processes data according to their privacy policy: https://fal.ai/privacy
+• Your photos are NOT shared with analytics companies, advertisers, or other third parties
+• Processing occurs on secure servers with encryption during transmission
+• No facial analysis or feature extraction occurs during processing
 
-User Control:
-• Face data processing only occurs during active try-on use
-• Users can delete all photos and generated content at any time
-• Complete account deletion removes all associated face data
-• No opt-out required - face processing is core app functionality
+Data Storage and Location:
+• Original user-uploaded photos are stored securely on Firebase Cloud Storage linked to your account
+• Generated try-on images are stored on Firebase Cloud Storage until deletion
+• Photos are stored as complete images without any facial data extraction or analysis
+• All data storage follows industry-standard encryption and security practices
+
+Data Retention Period:
+• Original portrait photos: Retained as long as your account is active or until you delete the specific photo
+• Generated try-on images: Retained until you delete them or close your account
+• No facial analysis data is retained as no facial analysis occurs
+• Upon account deletion: All associated photos and generated images are permanently deleted from our servers within 30 days
+• Backup systems: Complete removal from all backup systems within 30 days of account deletion
+
+User Control and Rights:
+• Photo processing only occurs when you actively initiate a try-on session
+• You can delete individual photos or all photos at any time through the app
+• Complete account deletion removes all photos and associated images
+• You may request verification of data deletion by contacting support
+• No facial feature analysis means no biometric data is processed or stored
 
 ## Data Sharing and Third Parties
 
