@@ -1,7 +1,7 @@
 # Privacy Policy for WearWise
 
-**Effective Date:** December 2024  
-**Last Updated:** December 2024
+**Effective Date:** June 2025  
+**Last Updated:** June 2025
 
 ## Introduction
 
@@ -81,6 +81,46 @@ WearWise is suitable for users aged 4+ as rated by Apple. We do not knowingly co
 - **Photos:** Deleted when you remove them from the app or delete your account
 - **Account Data:** Retained until you delete your account
 - **Usage Analytics:** Anonymized data may be retained for up to 2 years for improvement purposes
+
+## ACCOUNT DELETION
+
+Complete Data Removal Process
+
+WearWise provides users with comprehensive account deletion functionality directly within the app, ensuring complete control over personal data.
+
+What Gets Permanently Deleted:
+• Profile and Authentication Data: Account credentials, user ID, and authentication tokens
+• All Personal Photos: Every portrait photo and clothing image uploaded
+• Try-On History: All generated virtual try-on images and results  
+• Favorites and Preferences: Liked items, saved outfits, and app preferences
+• Usage Analytics: Personal app usage data and interaction history
+• Cloud Storage: All files stored in our cloud storage systems
+
+How to Delete Your Account:
+1. Open the WearWise app
+2. Navigate to Settings
+3. Scroll to bottom and tap "Delete Account"
+4. Follow the confirmation process
+5. Type required confirmation phrase
+6. Account is permanently deleted
+
+Deletion Timeline:
+• Immediate: Account access revoked instantly
+• Within 24 hours: All personal data deleted from active systems
+• Within 30 days: Complete removal from backup systems
+• Verification available upon request
+
+Important Subscription Information:
+Deleting your account does not automatically cancel App Store subscriptions. Users must manually cancel subscriptions through iPhone Settings > Apple ID > Subscriptions to avoid future charges.
+
+Data Retention Exceptions:
+• Anonymized transaction records may be retained for legal/tax compliance
+• Security logs retained for up to 90 days for fraud prevention
+• Aggregated analytics data that cannot identify users
+
+Re-registration:
+Users may create new accounts after deletion, but previous data cannot be recovered.
+
 
 ## International Data Transfers
 
