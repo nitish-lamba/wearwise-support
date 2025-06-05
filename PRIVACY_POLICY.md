@@ -37,6 +37,41 @@ WearWise ("we," "our," or "us") is committed to protecting your privacy. This Pr
 - **App Improvement:** Analyze usage patterns to enhance user experience
 - **Customer Support:** Respond to your inquiries and provide assistance
 
+## FACE DATA COLLECTION AND PROCESSING
+
+WearWise uses advanced AI technology that processes facial data from portrait photos to provide virtual try-on functionality.
+
+What Face Data We Collect:
+• Facial landmarks and key points (eyes, nose, mouth, chin, cheek contours)
+• Facial geometry and three-dimensional measurements
+• Head pose and orientation data
+• Facial positioning information for clothing alignment
+
+How We Use Face Data:
+• Exclusively for virtual try-on functionality to properly align clothing items
+• To create realistic virtual clothing placement on user photos
+• To ensure proper scale and positioning of garments
+• No facial recognition, identification, or biometric authentication purposes
+
+Face Data Processing:
+• Processed locally on user's device and through secure fal.ai service
+• Temporarily processed during try-on sessions only
+• Immediately deleted after each try-on generation
+• Never stored permanently or used to train AI models
+• No sharing with third parties beyond our AI processing service
+
+Data Retention:
+• Face data: Processed temporarily and deleted immediately after use
+• Portrait photos: Stored until user deletes them or closes account
+• Generated images: Retained for user access until deletion
+• No long-term retention of facial biometric data
+
+User Control:
+• Face data processing only occurs during active try-on use
+• Users can delete all photos and generated content at any time
+• Complete account deletion removes all associated face data
+• No opt-out required - face processing is core app functionality
+
 ## Data Sharing and Third Parties
 
 ### AI Processing Service
