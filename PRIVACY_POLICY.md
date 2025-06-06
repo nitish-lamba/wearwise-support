@@ -200,5 +200,7 @@ This Privacy Policy complies with:
 - Other applicable privacy laws
 
 ---
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
 
 **By using WearWise, you agree to the collection and use of information in accordance with this Privacy Policy.** 
